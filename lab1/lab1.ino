@@ -1,5 +1,6 @@
 #include <Arduino.h>
 #include <MD_TCS230.h>
+#include "button.h"
 
 #define  S0_OUT  2
 #define  S1_OUT  3
